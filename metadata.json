@@ -1,0 +1,6 @@
+{
+  "name": "Modern Minimal To-Do List",
+  "description": "A clean, responsive to-do list application with dark mode, due dates, filtering, and local storage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
